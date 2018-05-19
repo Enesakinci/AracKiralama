@@ -1,0 +1,16 @@
+c:\users\enes\documents\visual studio 2015\Projects\Rentacar\Rentacar\bin\Debug\Rentacar.exe.config
+c:\users\enes\documents\visual studio 2015\Projects\Rentacar\Rentacar\bin\Debug\Rentacar.mdf
+c:\users\enes\documents\visual studio 2015\Projects\Rentacar\Rentacar\bin\Debug\Rentacar_log.ldf
+c:\users\enes\documents\visual studio 2015\Projects\Rentacar\Rentacar\bin\Debug\Rentacar.exe
+c:\users\enes\documents\visual studio 2015\Projects\Rentacar\Rentacar\bin\Debug\Rentacar.pdb
+c:\users\enes\documents\visual studio 2015\Projects\Rentacar\Rentacar\obj\Debug\Rentacar.csprojResolveAssemblyReference.cache
+c:\users\enes\documents\visual studio 2015\Projects\Rentacar\Rentacar\obj\Debug\Rentacar.AracDuzenleme.resources
+c:\users\enes\documents\visual studio 2015\Projects\Rentacar\Rentacar\obj\Debug\Rentacar.Giris.resources
+c:\users\enes\documents\visual studio 2015\Projects\Rentacar\Rentacar\obj\Debug\Rentacar.KullaniciDuzenleme.resources
+c:\users\enes\documents\visual studio 2015\Projects\Rentacar\Rentacar\obj\Debug\Rentacar.Menu.resources
+c:\users\enes\documents\visual studio 2015\Projects\Rentacar\Rentacar\obj\Debug\Rentacar.Properties.Resources.resources
+c:\users\enes\documents\visual studio 2015\Projects\Rentacar\Rentacar\obj\Debug\Rentacar.csproj.GenerateResource.Cache
+c:\users\enes\documents\visual studio 2015\Projects\Rentacar\Rentacar\obj\Debug\Rentacar.exe
+c:\users\enes\documents\visual studio 2015\Projects\Rentacar\Rentacar\obj\Debug\Rentacar.pdb
+C:\Users\Enes\documents\visual studio 2015\Projects\Rentacar\Rentacar\obj\Debug\Rentacar.Kiralama.resources
+C:\Users\Enes\Documents\Visual Studio 2015\Projects\Rentacar\Rentacar\obj\Debug\Rentacar.Kasa.resources
